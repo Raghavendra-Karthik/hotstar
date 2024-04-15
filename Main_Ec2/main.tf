@@ -40,6 +40,6 @@ resource "aws_security_group" "devops-project-shiva" {
   }
 
   tags = {
-    Name = "devops-project-veera"
+    Name = "devops-project-shiva"
   }
 }
